@@ -5,3 +5,6 @@ class CoolClass():
 
   def cool_function(self):
     return self.val
+
+  def uncool_function(self):
+    return 0
